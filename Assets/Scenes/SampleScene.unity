@@ -240,6 +240,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1818307631659485007, guid: a06db2a3ff6054a7b862917280b49c7e, type: 3}
+      propertyPath: m_Size.x
+      value: 0.099888384
+      objectReference: {fileID: 0}
+    - target: {fileID: 1818307631659485007, guid: a06db2a3ff6054a7b862917280b49c7e, type: 3}
+      propertyPath: m_Size.y
+      value: 0.11616075
+      objectReference: {fileID: 0}
+    - target: {fileID: 1818307631659485007, guid: a06db2a3ff6054a7b862917280b49c7e, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.008587368
+      objectReference: {fileID: 0}
+    - target: {fileID: 1818307631659485007, guid: a06db2a3ff6054a7b862917280b49c7e, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.0024555326
+      objectReference: {fileID: 0}
     - target: {fileID: 4241099706828824325, guid: a06db2a3ff6054a7b862917280b49c7e, type: 3}
       propertyPath: dialogue.name
       value: Flag-san
@@ -289,6 +305,18 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6130432911367107320, guid: 71ab47ef4cdaa4e6893ca8b69e365ad5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4.2199993
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130432911367107320, guid: 71ab47ef4cdaa4e6893ca8b69e365ad5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.2199993
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130432911367107320, guid: 71ab47ef4cdaa4e6893ca8b69e365ad5, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130432911367107320, guid: 71ab47ef4cdaa4e6893ca8b69e365ad5, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.5
       objectReference: {fileID: 0}
@@ -326,6 +354,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6130432911367107320, guid: 71ab47ef4cdaa4e6893ca8b69e365ad5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130432911367107320, guid: 71ab47ef4cdaa4e6893ca8b69e365ad5, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6130432911367107321, guid: 71ab47ef4cdaa4e6893ca8b69e365ad5, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: fa2957fab968c4ef59e76a97020b1123, type: 3}
+    - target: {fileID: 6130432911367107321, guid: 71ab47ef4cdaa4e6893ca8b69e365ad5, type: 3}
+      propertyPath: m_DrawMode
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6130432911367107323, guid: 71ab47ef4cdaa4e6893ca8b69e365ad5, type: 3}
