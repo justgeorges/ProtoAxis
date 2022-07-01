@@ -35,7 +35,6 @@ public class PlayerController : MonoBehaviour
     
     }
 
-
    
     void Move(Vector2 direction)
     {
